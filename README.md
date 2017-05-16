@@ -1,1 +1,1 @@
-Simple chat web app deployed on heroku
+Simple chat web app developed on Node.js and deployed on heroku
